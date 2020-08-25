@@ -5,14 +5,14 @@
 The Portafolio Update is a personal webpage where the programmer share our projects, this time the portafolio has the info and the links to our most recent projects.
 
 ## Usage
-*The main page has te About Me info, is a short story about the programmer personal life and experience.
-    -At the Bottom of the page has the links to:
+* The main page has te About Me info, is a short story about the programmer personal life and experience.
+    - At the Bottom of the page has the links to:
         1. Linkedin Profile
         2. GitHub Page
         3. Resume
 
-*The portafolio page has the links to a webpage more detailed of the project named on it.
-*The contact page has the info to contact the programmer.
+* The portafolio page has the links to a webpage more detailed of the project named on it.
+* The contact page has the info to contact the programmer.
 
 
 
