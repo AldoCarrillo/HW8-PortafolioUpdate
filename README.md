@@ -17,7 +17,7 @@ the contact page has the info to contact the programmer.
 link : https://aldocarrillo.github.io/HW8-PortafolioUpdate/index.html
 
 
-![main](/main.png)
+![main](./images/main.png)
 
 
 ## License
