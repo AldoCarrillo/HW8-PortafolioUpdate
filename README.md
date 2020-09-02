@@ -2,7 +2,7 @@
 
 
 ## About
-The Portafolio Update is a personal webpage where the programmer share our projects, this time the portafolio has the info and the links to our most recent projects we been working during the bootcamp.
+The Portfolio Update is a personal webpage where the programmer share our projects, this time the portafolio has the info and the links to our most recent projects we been working during the bootcamp.
 
 ## Usage
 * The Main page has te About Me info, is a short story about the programmer personal life and experience.
@@ -11,7 +11,7 @@ The Portafolio Update is a personal webpage where the programmer share our proje
         2. GitHub Page
         3. Resume
 
-* The Portafolio page has the links to a webpage more detailed of each project named on it.
+* The Portfolio page has the links to a webpage more detailed of each project named on it.
 * The Contact page has the info to contact the programmer.
 
 
